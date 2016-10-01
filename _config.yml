@@ -16,7 +16,7 @@
 title: Hack on GitHub Pages
 description: >
   This site will get you started hacking with GitHub Pages.
-baseurl: "/hack-on-github-pages" # the subpath of your site
+baseurl: "/tamuhack" # the subpath of your site
 url: "https://steveortiz.github.io"
 email: steve@ortizaggies.com
 github_username:  steveortiz
